@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "45ab61e277047f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5f76e257805d1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f29b61ad0274a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9497276beef45ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7782e8b97f962c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4b5a601d3739c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a80f03355375298e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b72a72eeb327eed4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2a83be64b6821d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "427d72b58f6c42bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4717e1d6cde44b79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57a0bf22cf1bf837",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5098d4f3f260908c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbeffe1ee789c1d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9d4b5a601d3739c6",
+  "lastOpenFiles": [
+    "Life/Ancestries/Ancestry 1.md",
+    "Life/Organizations/Organization 1.md",
+    "Life/NPCs/NPC 1.md",
+    "Life/Cultures/Culture 1.md",
+    "Life/Classes/Class 1.md",
+    "Campaigns/Campaign 1/World Machine/Storyline 1.md",
+    "Campaigns/Campaign 1/Session Notes/Session 1.md",
+    "Campaigns/Campaign 1/Player Characters/Player Character 1.md",
+    "Atlas/Universal Region/World Region/Major Region/Geography.md",
+    "Atlas/Universal Region/World Region/Major Region/Minor Region/Fantastic Location.md"
+  ]
+}
